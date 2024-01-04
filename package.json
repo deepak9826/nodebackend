@@ -1,0 +1,16 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "This project is made of real time data.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "devenv": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
